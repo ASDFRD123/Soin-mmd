@@ -3,12 +3,17 @@
   "author": "Made by Soin, VCC add by watermelone_",
   "url": "https://raw.githubusercontent.com/ASDFRD123/Soin-mmd/refs/heads/main/index.json",
   "packages": {
-    "com.yourname.myassets": {
+    "com.SoinMMD.myassets": {
       "versions": {
         "1.0.0": {
           "name": "com.SoinMMD.myassets",
           "displayName": "내 애니메이션과 음악팩",
           "version": "1.0.0",
+          "unity": "2019.4",
+          "description": "Soin MMD 애니메이션 및 음악 팩",
+          "vpmDependencies": {
+            "com.vrchat.avatars": "3.0.0"
+          },
           "url": "https://github.com/ASDFRD123/Soin-mmd/releases/download/mmd/MMD.M.A.zip"
         }
       }
