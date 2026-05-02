@@ -11,9 +11,6 @@
           "version": "1.0.0",
           "unity": "2019.4",
           "description": "Soin MMD 애니메이션 및 음악 팩",
-          "vpmDependencies": {
-            "com.vrchat.avatars": "3.0.0"
-          },
           "url": "https://github.com/ASDFRD123/Soin-mmd/releases/download/mmd/MMD.M.A.zip"
         }
       }
