@@ -1,16 +1,16 @@
 {
-  "name": "SoinMMD",
+  "name": "Soin VPM Repository",
   "author": "watermelone_",
   "url": "https://raw.githubusercontent.com/ASDFRD123/Soin-mmd/main/index.json",
   "packages": {
-    "com.SoinMMD.myassets": {
+    "com.soin.mmd-assets": {
       "versions": {
         "1.0.0": {
-          "name": "com.SoinMMD.myassets",
-          "displayName": "easy mmd",
+          "name": "com.soin.mmd-assets",
+          "displayName": "Soin MMD Assets",
           "version": "1.0.0",
           "unity": "2019.4",
-          "url": "https://github.com/ASDFRD123/Soin-mmd/releases/download/mmd/Soin.MMD.zip"
+          "url": "https://github.com/ASDFRD123/Soin-mmd/releases/download/mmd/soin-mmd-package.zip.zip"
         }
       }
     }
